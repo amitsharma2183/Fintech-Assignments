@@ -126,3 +126,45 @@ These kinds of explorations will signal Mogo's desire to survive on their own an
 Traditional lenders like banks’ revenues at risk from fintech competition are typically in the range of 2 to 3 percent from lower loan origination, lower net income, and fewer customers acquired. Banks can gain a potential 3 to 5 percent in revenues by collaborating with fintechs, through enhanced customer acquisition, more feebased revenues, better pricing accuracy, and lower cost of risk. 
 
 Also, till now FinTech domains are involved in catering to their niches. There are already many competitors for Mogo providing somewhat similar products and services with technology as their key weapon. For  Mogo to survive the onslaught of competitors like Banks looking for technology upgradation and changing atmosphere post Covid, Mogo has to think about foraying into other domains.
+
+
+
+## References
+
+https://www.business2community.com/finance/5-ways-fintech-is-reshaping-the-financial-services-industry-02228834#:~:text=The%20revolution%20of%20financial%20technology,insurance%20services%20and%20account%20management.
+
+https://www.experian.com/blogs/insights/2019/03/4-ways-fintech-changed-lending/#:~:text=One%20way%20that%20fintech%20companies,peer%2Dto%2Dpeer%20lending.&text=Banks%20who%20collaborate%20with%20peer,lower%20cost%20to%20their%20customers.
+
+https://en.wikipedia.org/wiki/Mogo_(company)
+
+https://www.globenewswire.com/news-release/2020/02/28/1992677/0/en/goeasy-Ltd-Announces-Purchase-of-Mogo-Inc-s-31-9-million-Consumer-Loan-Portfolio-and-Forms-Lending-Partnership.html
+
+https://www.ivey.uwo.ca/cmsmedia/3784356/mogo-profile.pdf
+
+https://investors.mogo.ca/faq
+
+https://investors.mogo.ca/press-releases/canada-s-leading-online-lender-mogo-secures-new-credit-facility-of-up-to
+
+https://wire19.com/fintech-reshaped-business-lending-process/#:~:text=Fintech%20has%20made%20inroads%20in,businesses%20access%20loans%20and%20funding.
+
+https://www.econstor.eu/bitstream/10419/189877/1/sr836.pdf
+
+https://borrowell.com/blog/borrowell-vs-mogo-vs-credit-karma-whats-the-difference
+
+https://investors.mogo.ca/press-releases/mogo-launches-mogocrypto-providing-canadians-a-simple-and-low-cost-way-to
+
+https://investors.mogo.ca/press-releases/mogo-expands-its-technology-partners-with-plaid-integration-as-it-continues
+
+https://loanscanada.ca/lender/mogo/
+
+https://www.canadianlenders.org/press/an-overview-of-fintech-in-canada-lending/#:~:text=The%20FinTech%20lending%20sector%20consists,cases%20offer%20lower%20interest%20rates.&text=21%20This%20was%20the%20first,and%20a%20digital%20lending%20FinTech.
+
+https://business.financialpost.com/technology/online-alternative-lender-mogo-puts-on-mortgage-broker-hat
+
+https://www.queensbusinessreview.com/fast-but-unfair-rise-discriminatory-lending/
+
+https://builtin.com/fintech/fintech-lending-applications
+
+https://www.lendfoundry.com/top-10-innovative-fintech-solutions-offerings/
+
+https://www.accenture.com/_acnmedia/pdf-68/accenture-where-fintech-lending-will-land.pdf
